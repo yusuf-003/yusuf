@@ -2505,4 +2505,8 @@ input, select, textarea {
 						margin-top: 0;
 					}
 
+					#nav {
+						font-size: 15.5px;
+				}
+
 	}
