@@ -2507,6 +2507,7 @@ input, select, textarea {
 
 					#nav {
 						font-size: 8.5px;
+						display:none;
 				}
 
 	}
